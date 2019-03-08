@@ -1,14 +1,11 @@
-# W3C Process Document repository
+# Experimental Directorless W3C Process Document
 
-[![Build Status](https://travis-ci.org/w3c/w3process.svg?branch=master)](https://travis-ci.org/w3c/w3process)
+[![Build Status](https://travis-ci.org/frivoal/dirlessproc.svg?branch=dirless_master)](https://travis-ci.org/frivoal/dirlessproc)
 
-This repository is for the editor's draft of the [World Wide Web Consortium Process Document](https://www.w3.org/Consortium/Process/).
+This repository is an experimental fork of the [World Wide Web Consortium Process Document](https://www.w3.org/Consortium/Process/),
+made for the sake of exploring what the W3C process could look like without a director.
 
-The Process document is updated most years by the W3C.
-
-The editor's draft can be viewed at [https://w3c.github.io/w3process/](https://w3c.github.io/w3process/).
-
-Discussion happens in the context of the W3C Process Community Group [https://www.w3.org/community/w3process/](https://www.w3.org/community/w3process/).
+The editor's draft can be viewed at [https://frivoal.github.io/dirlessproc/](https://frivoal.github.io/dirlessproc/).
 
 ----
 
