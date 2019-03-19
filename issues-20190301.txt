@@ -205,7 +205,11 @@ Issue 28.
 Summary:  The word “dissent” is used more broadly than appropriate given its specific definition
 From:     Florian Rivoal
 Comment:  https://github.com/w3c/w3process/issues/239
-Open
+Comment:  https://github.com/w3c/w3process/issues/239#issuecomment-461338765
+Comment:  https://github.com/w3c/w3process/issues/239#issuecomment-461428887
+Response: https://github.com/w3c/w3process/pull/256
+Closed:   Accepted
+Resolved: https://github.com/w3c/w3process/issues/239#issuecomment-472435499
 ----
 Issue 29.
 Summary:  Grammar fix
@@ -244,13 +248,21 @@ Issue 34.
 Summary:  Incorrect use of the specialized term "publish"
 From:     Florian Rivoal
 Comment:  https://github.com/w3c/w3process/issues/245
-Open
+Response: https://github.com/w3c/w3process/pull/257
+Closed:   Accepted
+Resolved: https://github.com/w3c/w3process/issues/245#issuecomment-472436157
 ----
 Issue 35.
 Summary:  Does the “Team Submission“ mechanism still serve a purpose?
 From:     Florian Rivoal
 Comment:  https://github.com/w3c/w3process/issues/246
-Open
+Comment:  https://github.com/w3c/w3process/issues/246#issuecomment-461428127
+Comment:  https://github.com/w3c/w3process/issues/246#issuecomment-464979340
+Comment:  https://github.com/w3c/w3process/issues/246#issuecomment-465001121
+Comment:  https://github.com/w3c/w3process/issues/246#issuecomment-472009020
+Response: https://github.com/w3c/w3process/pull/255
+Closed:   Accepted
+Resolved: https://github.com/w3c/w3process/pull/255#issuecomment-473982997
 ----
 Issue 36.
 Summary:  Remove extraneous phrasing (Editorial)
@@ -276,7 +288,9 @@ Issue 39.
 Summary:  Remove unneeded sentence fragment (editorial)
 From:     Florian Rivoal
 Comment:  https://github.com/w3c/w3process/issues/250
-Open
+Comment:  https://github.com/w3c/w3process/issues/250#issuecomment-461744375
+Closed:   Accepted
+Resolved: https://github.com/w3c/w3process/issues/250#issuecomment-472437269
 ----
 Issue 40.
 Summary:  First meeting of a WG allowed too soon
@@ -300,3 +314,10 @@ Comment:  https://github.com/w3c/w3process/issues/253#issuecomment-463640019
 Comment:  https://github.com/w3c/w3process/issues/253#issuecomment-463949262
 Closed:   Accepted
 Resolved: Editorial
+----
+Issue 43.
+Summary:  Remove overly specific mention of PR in generic sentence about AC reviews
+From:     Coralie Mercier
+Comment:  https://github.com/w3c/w3process/issues/259
+Closed:   Accepted
+Resolved: https://github.com/w3c/w3process/issues/259#issuecomment-472438787

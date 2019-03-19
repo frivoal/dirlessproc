@@ -539,23 +539,6 @@ The W3C Team</h3>
 	Within W3C, the Host institutions are governed by hosting agreements;
 	the [=Hosts=] themselves are not W3C Members.
 
-<h4 id="TeamSubmission">
-Team Submissions</h4>
-
-	Team members <em class="rfc2119">may</em> request that the Director publish information at the W3C Web site.
-	At the Director's discretion,
-	these documents are published as “Team Submissions”.
-	These documents are analogous to <a href="#Submission">Member Submissions</a>
-	(e.g., in <a href="#SubmissionScope">expected scope</a>).
-	However, there is no additional Team comment.
-	The <a href="#DocumentStatus">document status section</a> of a Team Submission
-	<em class="rfc2119">must</em> indicate the level of Team consensus about the published material.
-
-	Team Submissions are <strong>not</strong> part of the <a href="#Reports">technical report development process</a>.
-
-	The list of <a href="https://www.w3.org/TeamSubmission/">published Team Submissions</a> [[TEAM-SUBMISSION]]
-	is available at the W3C Web site.
-
 <h3 id="AB">
 Advisory Board (AB)</h3>
 
@@ -776,10 +759,9 @@ Advisory Board and Technical Architecture Group Participation Constraints</h4>
 			one participant <em class="rfc2119">must</em> cease [=AB=] participation
 			until the situation has been resolved.
 			If after <span class="time-interval">30 days</span> the situation has not been resolved,
-			the Chair will declare one participant's seat to be vacant.
-			When more than one individual is involved,
-			the <a href="#random">verifiable random selection procedure</a> described
-			below will be used to choose one person for continued participation.
+			the Chair will apply
+			the <a href="#random">verifiable random selection procedure</a> described below
+			to choose one person for continued participation and declare the other seat(s) vacant.
 		<li>
 			An individual <em class="rfc2119">must not</em> participate on both the TAG and the AB.
 	</ul>
@@ -1390,7 +1372,7 @@ Votes</h3>
 	whether to hold a meeting in San Francisco or San Jose
 	(there's not much difference geographically).
 	When simple majority votes are used to decide minor issues,
-	the minority are <em class="rfc2119">not required</em> to state the reasons for their dissent,
+	voters are <em class="rfc2119">not required</em> to state the reasons for votes,
 	and the group is <em class="rfc2119">not required</em> to record individual votes.
 
 	A group charter <em class="rfc2119">should</em> include formal voting procedures
@@ -2880,7 +2862,7 @@ Classes of Changes</h4>
 			clarifying informative use cases or other non-normative text,
 			fixing typos or grammatical errors
 			where the change does not change implementation requirements.
-			If there is any doubt or dissent
+			If there is any doubt or disagreement
 			as to whether requirements are changed,
 			such changes do not fall into this class.
 
@@ -3983,7 +3965,7 @@ After the Review Period</h4>
 	have sufficient time to consider comments
 	gathered during the review.
 	The [=Advisory Committee=] <em class="rfc2119">should not</em> expect an announcement
-	sooner than <span class="time-interval">two weeks</span> after the end of a [=Proposed Recommendation=] review period.
+	sooner than <span class="time-interval">two weeks</span> after the end of a review period.
 	If, after <span class="time-interval">three weeks</span>, the Director has not announced the outcome,
 	the [=Director=] <em class="rfc2119">should</em> provide the [=Advisory Committee=] with an update.
 
@@ -4157,11 +4139,11 @@ Member Submission Process</h2>
 	or other ideas
 	for consideration by the [=Team=].
 	After review,
-	the [=Team=] <em class="rfc2119">may</em> publish the material at the W3C Web site.
+	the [=Team=] <em class="rfc2119">may</em> make the material available at the W3C Web site.
 	The formal process affords Members a record of their contribution
 	and gives them a mechanism for disclosing the details of the transaction with the Team
 	(including IPR claims).
-	The [=Team=] also publishes review comments on the Submitted materials for W3C Members,
+	The [=Team=] also makes review comments on the Submitted materials available for W3C Members,
 	the public,
 	and the media.
 
@@ -4194,7 +4176,7 @@ Member Submission Process</h2>
 			<ul>
 				<li>
 					If <a href="#SubmissionYes">acknowledged</a>,
-					the Team <em class="rfc2119">must</em> publish the [=Member Submission=]
+					the Team <em class="rfc2119">must</em> make the [=Member Submission=] available
 					at the public W3C Web site,
 					in addition to Team comments about the [=Member Submission=].
 
@@ -4227,14 +4209,14 @@ Member Submission Process</h2>
 		</ul>
 	</div>
 
-	Publication of a Member Submission by W3C
+	Making a Member Submission available at the W3C website
 	does not imply endorsement by W3C,
 	including the W3C Team or Members.
 	The acknowledgment of a Submission request
 	does not imply that any action will be taken by W3C.
 	It merely records publicly
 	that the Submission request has been made by the Submitter.
-	A Member Submission published by W3C
+	A Member Submission made available by W3C
 	<em class="rfc2119">must not</em> be referred to as “work in progress” of the W3C.
 
 	The list of <a href="https://www.w3.org/Submission/">acknowledged Member Submissions</a> [[SUBMISSION-LIST]]
@@ -4267,7 +4249,7 @@ Submitter Rights and Obligations</h3>
 	The [=Submitter=](s) <em class="rfc2119">must not</em> imply
 	in public or Member communication
 	that W3C is working (with the [=Submitter=](s)) on the material in the [=Member Submission=].
-	The [=Submitter=](s) <em class="rfc2119">may</em> publish the documents in the Member Submission
+	The [=Submitter=](s) <em class="rfc2119">may</em> release the documents in the Member Submission to the public
 	prior to acknowledgment
 	(without reference to the Submission request).
 
@@ -4331,11 +4313,11 @@ Information Required in a Submission Request</h4>
 			a position paper,
 			etc.)
 			If the Submission request is acknowledged,
-			these documents will be published by W3C
+			these documents will be made available by W3C
 			and therefore <em class="rfc2119">must</em> satisfy the Communication Team's
 			<a href="https://www.w3.org/pubrules/">Publication Rules</a> [[!PUBRULES]].
 			[=Submitters=] <em class="rfc2119">may</em> hold the copyright for the material contained in these documents,
-			but when published by W3C,
+			but when made available by W3C,
 			these documents <em class="rfc2119">must</em> be subject to the provisions
 			of the <a href="https://www.w3.org/Consortium/Legal/copyright-documents">W3C Document License</a> [[!DOC-LICENSE]].
 	</ul>
@@ -4405,14 +4387,14 @@ Acknowledgment of a Submission Request</h3>
 
 	<ul>
 		<li>
-			Publish the [=Member Submission=].
+			Make the [=Member Submission=] available at the W3C website.
 
 		<li>
-			Publish Team comments about the Submission request.
+			Make the Team comments about the Submission request available at the W3C website.
 	</ul>
 
 	If the [=Submitter=](s) wishes to modify
-	a document published as the result of acknowledgment,
+	a document made available as the result of acknowledgment,
 	the Submitter(s) <em class="rfc2119">must</em> start the Submission process from the beginning,
 	even just to correct [=editorial changes=].
 
@@ -4664,6 +4646,24 @@ Changes since the <a href="https://www.w3.org/2019/Process-20190301/">1 March 20
 			Note that while this makes no change to the text of the process,
 			it is a large change of the source code,
 			and source level diffs are unlikely to be of help to compare the before and after state.
+
+		<li>
+			Phrasing clarifications and removal of unnecessary text
+			in <a href="#AB-TAG-constraints"></a> and
+			<a href="#ACReviewAfter"></a>.
+
+		<li>
+			Avoid using the specialized term “[=publish=]” to mean anything other than
+			putting documents on TR.
+
+		<li>
+			Avoid using the specialized term “[=dissent=]” in situations that do not involve Formal Objections.
+
+		<li>
+			Retire the “Team Submissions” (<em>not</em> “Member Submissions”) mechanism,
+			as it is unused,
+			does not provide the Team with abilities it doesn't already have,
+			nor provides meaningful governance of the Team's communications.
 	</ul>
 
 <h3 id=changes-2018 class=no-num>
@@ -4865,11 +4865,6 @@ and the <a href="https://www.w3.org/2018/Process-20180201/">1 February 2018 Proc
 	"MISSION": {
 		"href": "https://www.w3.org/Consortium/mission",
 		"title": "The W3C Mission statement",
-		"publisher": "W3C"
-	},
-	"TEAM-SUBMISSION": {
-		"href": "https://www.w3.org/TeamSubmission/",
-		"title": "The list of published Team Submissions",
 		"publisher": "W3C"
 	},
 	"COLLABORATORS-AGREEMENT": {
