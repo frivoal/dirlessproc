@@ -1241,7 +1241,9 @@ Recording and Reporting Formal Objections</h4>
 	Discussion is encouraged.
 
 	The CEO forms an <dfn>Advisory Group</dfn>,
-	selected from the [=W3C team=],
+	selected as they wish,
+	but typically from
+	The [=W3C Team=],
 	[=TAG=],
 	[=AB=],
 	and [=Chairs=],
@@ -1291,9 +1293,9 @@ Recording and Reporting Formal Objections</h4>
 
 	A recusal is required for any of these
 	directly involved in the matter of the [=Formal Objection=]
-	(e.g. that they are a chair, and it is their decision that is in question);
+	(e.g. that they are a chair, and it is their decision that is in question,
+	or they are the individual who registered the [=Formal Objection=]);
 	other members may recuse themselves if they feel their could be a reasonable perception that they are directly involved.
-	<span class=issue>Does this imply that people should recuse themselves if they are the one who raised the Objection? If so, we should make that explicit</span>
 	If the [=CEO=] recuses themself,
 	they may nominate another member of the W3C management to serve in their place.
 	The remaining members serve as the voting members of the [=Objection Decision committee=].
@@ -1303,10 +1305,6 @@ Recording and Reporting Formal Objections</h4>
 	(b) reject the proposed decision
 	(c) recuse themselves,
 	or (d) request that the committee discuss the matter.
-	Such discussion may involve of a subset of the committee;
-	however, for procedural matters there must be at least one AB member,
-	and for architectural/technical matters, there must be at least one TAG member,
-	in the discussion.
 
 	Issue: Some issues may be hard to characterise as either procedural or technical.
 	For instance, it could be political, legal…
